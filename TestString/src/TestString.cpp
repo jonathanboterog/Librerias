@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : TestString.cpp
 // Author      : jbotero
-// Version     :
+// Version     : 01.00
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
